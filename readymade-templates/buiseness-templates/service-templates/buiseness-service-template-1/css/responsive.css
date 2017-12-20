@@ -1,0 +1,425 @@
+@media (max-width: 480px) {
+
+/*--- Section Heading ---*/
+.tagline-style {
+    display: inline-block;
+    font-size: 42px;
+    font-weight: 700;
+    color: #fcfcfc;
+    position: relative;
+    z-index: 3;
+    line-height: 50px;
+    text-transform: uppercase;
+    padding-bottom: 75px;
+    z-index: 4;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 75px;
+}
+.tagline-style-2 {
+    display: inline-block;
+    font-size: 36px;
+    font-weight: 600;
+    color: #666;
+    position: relative;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 35px;
+}
+
+/*--- Modern Heading ---*/
+.box-1 h1 {
+    display: inline-block;
+    font-size: 39px;
+    font-weight: 600;
+    color: #666;
+    position: relative;
+    z-index: 3;
+    margin-top: 15px;
+    line-height: 50px;
+    text-transform: uppercase;
+    z-index: 4;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 70px;
+}
+.box-2 h1 {
+    display: inline-block;
+    font-size: 38px;
+    font-weight: 600;
+    color: #888;
+    position: relative;
+    z-index: 3;
+    margin-top: 15px;
+    line-height: 50px;
+    text-transform: uppercase;
+    z-index: 4;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 70px;
+}
+.box-3 h1 {
+    display: inline-block;
+    z-index: 4;
+    position: relative;
+    font-size: 35px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+.square-tagline {
+    border: 7px solid #ddd;
+    padding: 62px 95px;
+    position: absolute;
+    left: 75px; 
+    top: 170px;
+}
+.square {
+    border: 6px solid #ddd;
+    padding: 52px 90px;
+    position: absolute;
+    left: 95px;
+    top: 11px;
+}
+.square-2 {
+    border: 6px solid #ddd;
+    padding: 62px 95px;
+    position: absolute;
+    left: 85px;
+    top: 50px;
+}
+.square-3 {
+    border: 8px solid #ddd;
+    padding: 65px 87px;
+    position: absolute;
+    left: 105px;
+    bottom: 55px;
+}
+.square-4 {
+    border: 7px solid #ddd;
+    padding: 50px 70px;
+    position: absolute;
+    left: 132px;
+}
+.square-5 {
+    border: 8px solid #ddd;
+    padding: 65px 105px;
+    position: absolute;
+    left: 452px;
+}
+.square-6 {
+    border: 6px solid #ddd;
+    padding: 52px 75px;
+    position: absolute;
+    left: 105px;
+    top: -10px;
+}
+.square-7 {
+    border: 6px solid #ddd;
+    padding: 52px 75px;
+    position: absolute;
+    left: 105px;
+}
+    
+/*--- Icons ---*/
+.icon-square {
+    margin: auto;
+    margin-bottom: 15px;
+}
+.icon-square { 
+    margin-bottom: 15px;
+}
+    
+/*--- Service ---*/
+.service-box {
+    text-align: center;    
+}
+.process-steps {
+    margin-bottom: 10px;
+}
+.process-contents {
+    text-align: center;
+}
+    
+/*--- Team ---*/
+.team-member {
+    margin-bottom: 35px;        
+}
+    
+/*--- Portfolio ---*/
+.simplefilter {
+    margin-bottom: 0;
+}
+.simplefilter li {        
+   display: inline-block;
+
+}
+    
+/*--- Other shortcodes ---*/
+.mobile-align {
+    margin: auto;
+}
+.mobile-mb {
+    margin-bottom: 35px;
+}
+.mobile-mt {
+    margin-top: 35px;
+}
+.mob-res {
+    margin-bottom: 45px;
+}
+.mob-res-2 {
+    margin-bottom: 25px;
+}
+.mobile-hide {
+    display: none;
+}
+    
+}
+
+
+@media (min-width: 481px) and (max-width: 768px) {
+    
+/*--- Section headings ---*/
+.tagline-style {
+    display: inline-block;
+    font-size: 51px;
+    font-weight: 600;
+    color: #fcfcfc;
+    position: relative;
+    z-index: 3;
+    line-height: 55px;
+    text-transform: uppercase;
+    padding-bottom: 75px;
+    z-index: 4;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 75px;
+    }
+.tagline-style-2 {
+    display: inline-block;
+    font-size: 41px;
+    font-weight: 600;
+    color: #666;
+    position: relative;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 35px;
+}
+/*--- Modern headings ---*/
+.square-tagline {
+    border: 7px solid #ddd;
+    padding: 67px 105px;
+    position: absolute;
+    left: 85px; 
+    top: 180px;
+}
+.box-1 h1 {
+    display: inline-block;
+    font-size: 45px;
+    font-weight: 600;
+    color: #666;
+    position: relative;
+    z-index: 3;
+    margin-top: 15px;
+    line-height: 50px;
+    text-transform: uppercase;
+    z-index: 4;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 70px;
+}
+.box-2 h1 {
+    display: inline-block;
+    font-size: 45px;
+    font-weight: 600;
+    color: #888;
+    position: relative;
+    z-index: 3;
+    margin-top: 15px;
+    line-height: 50px;
+    text-transform: uppercase;
+    z-index: 4;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 70px;
+}
+.square {
+    border: 6px solid #ddd;
+    padding: 56px 90px;
+    position: absolute;
+    left: 95px;
+    top: 7px;
+}
+.square-2 {
+    border: 6px solid #ddd;
+    padding: 62px 95px;
+    position: absolute;
+    left: 85px;
+    top: 50px;
+}
+.square-4 {
+    border: 7px solid #ddd;
+    padding: 55px 75px;
+    position: absolute;
+    left: 282px;
+}
+    
+/*--- Icons ---*/
+.icon-square {
+    margin-bottom: 15px;
+}
+
+/*--- Testimonials ---*/
+.wrapper {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+} 
+
+/*--- Service ---*/
+.service-box {
+    width: 80%;
+}
+.process-steps {
+    margin-bottom: 15px;
+}
+    
+/*--- Other ---*/
+.mobile-align {
+    margin: auto;
+}
+.mobile-mb {
+    margin-bottom: 35px;
+}
+.mobile-mt {
+    margin-top: 35px;
+}
+.mob-res-2 {
+    margin-bottom: 25px;
+}
+.mobile-hide {
+    display: none;
+}
+.tablet-hide {
+    display: none;
+}
+
+}
+
+
+@media (min-width: 450px) and (max-width: 768px) {  
+/*--- Team ---*/
+.team-member {
+    width: 370px;
+    margin: auto;
+    margin-bottom: 35px;
+    overflow: hidden;
+}
+    
+}
+
+@media (max-width: 768px) {
+    .navbar-white .navbar-collapse {
+        background: #fcfcfc;
+    }
+    .navbar-gray .navbar-collapse {
+        background: #fcfcfc;
+    }
+    .sticky-navbar .navbar-collapse {
+        background: #fcfcfc;
+    }
+    .navbar-white .navbar-nav > li > a {
+	margin-top: 17px;
+	font-size: 14px;
+    text-transform: uppercase;
+    color: #777;
+	font-family: 'Open-sans', sans-serif;
+    font-weight: 500;
+    overflow: hidden;
+    text-align: center;
+    width: 100%;
+}
+}
+
+
+@media (min-width: 767px) and (max-width: 992px) {
+/*--- Tagline ---*/
+.tagline-style {
+    font-size: 52px;
+}
+.tagline-style-2 {
+    font-size: 38px;
+}
+
+/*--- Team ---*/
+.team-member {
+    width: 430px;
+    margin: auto;
+    margin-bottom: 45px;
+    overflow: hidden;
+}
+.navbar-nav {
+    width: 50%;
+}
+/*--- Icons ---*/
+.icon-square {
+    margin-bottom: 22px;
+}
+/*--- Testimonials ---*/
+.service-content {
+    margin-bottom: 10px;
+}
+/*--- Other ---*/
+.mobile-mb {
+    margin-bottom: 55px;
+}
+.mobile-mt {
+    margin-top: 35px;
+}
+}
+
+@media (min-width: 992px) and (max-width: 1201px) {
+    .process-contents {
+        margin-left: 10px;
+    }
+}
+
+@media (max-width: 992px) and (min-width: 767px)  {
+.navbar-nav {
+    width: 100%;
+}
+
+}
+
+/*-- Collapse change, if u want to make collapse of navigation menu back like is default in bootstrap, just delete all this --*/
+@media (max-width: 992px) {
+.navbar-header {
+float: none;
+}
+.navbar-left,.navbar-right {
+float: none !important;
+}
+.navbar-toggle {
+display: block;
+}
+.navbar-collapse.collapse {
+display: none!important;
+}
+.navbar-nav {
+float: none!important;
+margin-top: 6.5px;
+background: #FCFCFC;
+margin: auto;
+}
+.navbar-nav>li {
+float: none;
+}
+.navbar-nav>li>a {
+padding-top: 10px;
+padding-bottom: 10px;
+    color: #777!important;
+    text-align: center;
+        border-bottom: 1px solid #EDEDED;
+    padding: 10px 20px;
+}
+.collapse.in{
+display:block !important;
+}
+
+}
+/*--- Leave it, or delete it all ---*/
